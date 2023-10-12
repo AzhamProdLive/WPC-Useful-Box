@@ -33,5 +33,35 @@ creator of the channel. You can find his channel [here](https://www.youtube.com/
 
 ## Explanation of the folders.
 
+### 1 - [Documents](#documents)
 
 
+### 2 - [Scripts](#scripts)
+
+
+### 3 - [GitHub Repositories](#github-repositories)
+
+
+### 4 - [Google Docs](#google-docs)
+
+
+### 5 - [YouTube Tutorials](#youtube-tutorial)
+
+
+---
+
+## Special thanks.
+
+Thanks to World of PC for allowing me to create this repository.
+Thanks to the tech support team for the help with some of the stuff in this repository.
+Thanks to the people who will contribute to this repository.
+
+---
+
+## Contributing
+
+If you want to contribute to this repository, 
+you can do it by creating a pull request. 
+If you don't know how to do it, you can follow this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) ! 
+You can also create an issue in the repositories if you want to suggest something.
+All the contributions are welcome ! Every contribution will be checked before being added to the repository.
