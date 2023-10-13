@@ -61,7 +61,7 @@ Thanks to the people who will contribute to this repository.
 ## Contributing
 
 If you want to contribute to this repository, 
-you can do it by creating a pull request. 
+you can do it by creating a pull request on the testing branch. 
 If you don't know how to do it, you can follow this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) ! 
 You can also create an issue in the repositories if you want to suggest something.
 All the contributions are welcome ! Every contribution will be checked before being added to the repository.
