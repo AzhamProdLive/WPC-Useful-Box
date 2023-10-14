@@ -14,6 +14,8 @@ https://github.com/lolitee/adobe-discord-rpc
 
 https://github.com/NexusLiteOS/Add-Microsoft-Store-2022/releases/download/2022/Add-Microsoft-Store-2022.zip
 
+https://github.com/asus2022/Add-Microsoft-Store-2022
+
 https://github.com/asus2022/Microsoft-Store-Dependencies
 
 https://github.com/WaterfoxCo/Waterfox
