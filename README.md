@@ -4,7 +4,7 @@
 
 **Welcome on the "WPC-Useful-Box" repository. This repository is basically a
 database of all the useful scripts, tools and tech tips that me and the
-tech support team created for the [WPC Discord Server](https://discord.gg/WtmzZ4EEjt).**
+tech support team created for the WPC Discord Server.**
 
 Everything in this list is proof-checked before being added here, so you can try them without any fear.
 
@@ -34,19 +34,19 @@ creator of the channel. You can find his channel [here](https://www.youtube.com/
 ## Explanation of the folders.
 
 ### 1 - [Documents](#documents)
-
+This folder contains miscellaneous documentation that doesn't really fit in any other folders.
 
 ### 2 - [Scripts](#scripts)
-
+This folder contains scripts that are made by the tech support team. These scripts are made to help you with enabling disabled features mostly.
 
 ### 3 - [GitHub Repositories](#github-repositories)
-
+This folder contains links to GitHub repositories that are useful or contains useful tools that you can use every day. 
 
 ### 4 - [Google Docs](#google-docs)
-
+This folder contains Google Docs explaining how to do some stuff, or what does some settings in BIOS does, etc etc...
 
 ### 5 - [YouTube Tutorials](#youtube-tutorial)
-
+This folder is pretty self explanatory, isn't it ?
 
 ---
 
