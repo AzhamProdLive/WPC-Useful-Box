@@ -1,16 +1,23 @@
-https://github.com/EverythingTechTutorials/OSTool/releases/tag/v1.0.0.0
+# On this page, you can find all the Repositories that can be useful for your issue.
 
-https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide
 
-https://github.com/BoringBoredom/PC-Optimization-Hub
+- Guide meant for advanced users who wants to get rid off Windows 11's bloatware and telemetry :  
+[WPC Debloat Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide)
 
-https://github.com/Reginald-Blechman/Ghost-Toolbox-1.9.0.15
+  
+- collection of various resources devoted to performance and input lag optimization
+  Topics : 
+[PC Optimization Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)
+  
 
-https://github.com/namazso/OpenHashTab 
+- File hashing and checking shell extension : [OpenHasTab](https://github.com/namazso/OpenHashTab )
 
-https://github.com/colinhartigan/valorant-rpc
 
-https://github.com/lolitee/adobe-discord-rpc
+- Feature-rich Discord rich-presence implementation for VALORANT : [Valorant RPC](https://github.com/colinhartigan/valorant-rpc)
+
+
+- Discord Rich Presence extension for your adobe apps! : [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc)
+
 
 https://github.com/NexusLiteOS/Add-Microsoft-Store-2022/releases/download/2022/Add-Microsoft-Store-2022.zip
 
