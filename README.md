@@ -36,19 +36,19 @@ creator of the channel. You can find his channel [here](https://www.youtube.com/
 
 ## Explanation of the folders.
 
-### 1 - [Documents](#documents)
+### 1 - [Documents](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/Documents)
 This folder contains miscellaneous documentation that doesn't really fit in any other folders.
 
-### 2 - [Scripts](#scripts)
+### 2 - [Scripts](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/Scripts)
 This folder contains scripts that are made by the tech support team. These scripts are made to help you with enabling disabled features mostly.
 
-### 3 - [GitHub Repositories](#github-repositories)
+### 3 - [GitHub Repositories](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/GitHub%20Repositories)
 This folder contains links to GitHub repositories that are useful or contains useful tools that you can use every day. 
 
-### 4 - [Google Docs](#google-docs)
+### 4 - [Google Docs](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/Google%20Docs)
 This folder contains Google Docs explaining how to do some stuff, or what does some settings in BIOS does, etc etc...
 
-### 5 - [YouTube Tutorials](#youtube-tutorial)
+### 5 - [YouTube Tutorials](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/YouTube%20Tutorials)
 This folder is pretty self explanatory, isn't it ?
 
 ---
