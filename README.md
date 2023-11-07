@@ -12,7 +12,6 @@ tech support team created for the WPC Discord Server.**
 Everything in this list is proof-checked before being added here, so you can try them without any fear.
 
 ---
-<div>	<a> Enable <a href="https://github.com/WindowsTools2077/WPC-Useful-Box/blob/main/Scripts/data/Files/Dark%20mode%20ON.reg">link</a>
 
 ## Table of Contents
 
