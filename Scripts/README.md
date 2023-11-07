@@ -33,7 +33,7 @@
 ### <div>	<a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171576571748962354/UAC_on.reg">Enable</a>
 ### <div>	<p><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171576803807203359/UAC_off.reg">Disable</a>
 
-> Microsoft Store (Can't sgn-in)
+> Microsoft Store (Can't sign-in)
 ### <div>	<a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171558133865390100/Sign_in_fix.bat">Fix</a>
 
 > FastBoot
