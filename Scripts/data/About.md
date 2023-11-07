@@ -1,1 +1,1 @@
-## Uploaded from Epiczone PC :3 [![Awesome](https://raw.githubusercontent.com/WindowsTools2077/WPC-Useful-Box/main/Scripts/data/Cloud.png)](https://awesome.re)
+# Uploaded from Epiczone PC :3 [![Awesome](https://raw.githubusercontent.com/WindowsTools2077/WPC-Useful-Box/main/Scripts/data/Cloud.png)]
