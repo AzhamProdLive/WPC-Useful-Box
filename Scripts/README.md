@@ -3,3 +3,4 @@
 > Dark mode
 - <div>	<a> Enable <a href="https://github.com/WindowsTools2077/WPC-Useful-Box/blob/main/Scripts/data/Files/Dark%20mode%20ON.reg">link</a>
 - <div>	<a> Disable <a href="https://github.com/WindowsTools2077/WPC-Useful-Box/blob/main/Scripts/data/Files/Dark%20mode%20OFF.reg">link</a>
+<div>	<a> ♥ Download the <a href="https://github.com/WindowsTools2077/Epic-Powerplan/releases/download/Powerplan/Add-Powerplan-installation.reg">Add-Powerplan-installation.reg</a>
