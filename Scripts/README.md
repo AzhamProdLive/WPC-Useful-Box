@@ -14,6 +14,10 @@
 ### <div>	<a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171557885352886342/Search_bar_ON.reg">Enable</a>
 ### <div>	<p><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171557866222653450/Search_bar_off.reg">Disable</a>
 
+> Clipboard
+### <div>	<a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171822368780460042/Clipboard_Enable.reg">Enable</a>
+### <div>	<p><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171822387818414110/Clipboard_disable.reg">Disable</a>
+
 ---
 ## System & Tweak 
 
