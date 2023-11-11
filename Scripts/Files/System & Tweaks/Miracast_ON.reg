@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+By Epiczone
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+"PlatformSupportMiracast"=dword:00000001

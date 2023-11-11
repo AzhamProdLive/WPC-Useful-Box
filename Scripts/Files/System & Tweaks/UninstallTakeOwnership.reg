@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+Epiczone :3
+
+
+[-HKEY_CLASSES_ROOT\*\shell\runas]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\runas]

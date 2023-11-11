@@ -1,0 +1,29 @@
+Windows Registry Editor Version 5.00
+Epiczone :3
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PushNotifications]
+"ToastEnabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer]
+"DisableNotificationCenter"dword:00000000
+"EnableLegacyBalloonNotifications"=dword:00000001
+"NoBalloonFeatureAdvertisements"=dword:00000000
+"NoSystraySystemPromotion"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoAutoTrayNotify"=dword:00000000
+"TaskbarNoNotification"=dword:00000000
+"NoTrayItemsDisplay"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\PushNotifications]
+"DisallowNotificationMirroring"==dword:00000000
+"NoCloudApplicationNotification"=dword:00000000
+"NoTileApplicationNotification"=dword:00000000
+"NoToastApplicationNotification"=dword:00000000
+"NoToastApplicationNotificationOnLockScreen"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
+"DisableLockScreenAppNotifications"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Notifications\Settings\Windows.SystemToast.StartupApp]
+"Enabled"=dword:00000001
