@@ -52,10 +52,6 @@
 ### <div> <a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1172226943249301544/Enabl_ink_workspace.reg">Enable</a>
 ### <div> <p><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1172227132546629663/Disable_ink_workspace.reg">Disable</a>
 
-> Action Center
-### <div> <a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1172226980247244910/enable_action_center.reg">Enable</a>
-### <div> <p><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1172227235378376714/disable_action_center.reg">Disable</a>
-
 > SystemTray (arrow)
 ### <div> <a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1172227013159944212/enable_arrow.reg">Enable</a>
 ### <div> <p><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1172227322208866334/disable_arrow.reg">Disable</a>
