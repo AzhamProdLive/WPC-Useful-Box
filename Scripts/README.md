@@ -1,5 +1,7 @@
 # This Script page has the most common fixes in .bat  & .reg
 
+*If you want to check the code of the .reg files, you can check in [this folder](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/Scripts/Files).
+
 ## Themes & UI 
 
 > Dark mode
