@@ -1,0 +1,11 @@
+✅Change the name “Administrator” on your PC :
+--------------------------------------------------------------
+
+Open powershell
+Type: Get-LocalUser
+After
+Type: Rename-LocalUser -Name “Administrator” -NewName “<Username>”
+DONE
+Type whatever for <Username>
+
+RESTART PC 
