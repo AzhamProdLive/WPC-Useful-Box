@@ -1,0 +1,83 @@
+✨Debloat, tweak For Firefox ✨
+
+Stop firefox leaking data about you:
+-------------------------------------------
+
+Type in browser: about:config
+Click “Accept the risk and continue”
+Google safe browsing
+
+Leaks the browsing history to google. Note that disabling safe browsing exposes you to a risk of not being stopped from visiting malicious or phishing sites:
+------------------
+
+browser.safebrowsing.enabled = false
+browser.safebrowsing.downloads.enabled = false
+browser.safebrowsing.malware.enabled = false
+
+
+Firefox stats collecting stability and performance reports:
+----------------------------------------------------------------------
+
+datareporting.healthreport.service.enabled = false
+datareporting.healthreport.uploadEnabled = false
+
+Usage statistics:
+-------------------
+
+toolkit.telemetry.unified = false
+toolkit.telemetry.enabled = false
+
+Encrypted Media Extensions (DRM)
+
+A binary plugin (closed-source) is shipped with firefox since v38. It enables playback of encrypted media and lets you use e.g. netflix without microsoft silverlight. To completely remove the plugin you would have to disable it:
+-------------------------------------------------------------------------------------------------------
+
+media.eme.enabled = false
+media.gmp-eme-adobe.enabled = false
+
+Firefox Hello
+Firefox connects to third-party (telefonica) servers without asking for permission:
+-----------------------------------------------------------------------------------------------------
+
+loop.enabled = false
+
+
+Pocket integration
+A third-party service for managing a reading list of articles:
+------------------------------------------------------------------------
+
+browser.pocket.enabled = false
+
+Search suggestions
+Everything you type in the search box is sent to the search engine. Suggestions based on local history will still work:
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+browser.search.suggest.enabled = false
+
+WebRTC
+Leaks the real IP when using VPN/TOR:
+------------------------------------------------
+
+media.peerconnection.enabled = false
+
+
+Instead of completely disabling WebRTC you could also make it connect over the default route only using:
+----------------------------------------------------------------------------------------------------------------------------------
+
+media.peerconnection.ice.default_address_only = true
+
+
+Geolocation
+Disable location:
+--------------------
+
+geo.enabled = false
+
+Adobe flash
+Disable adobe:
+------------------
+
+plugin.state.flash = 0
+
+
+END
