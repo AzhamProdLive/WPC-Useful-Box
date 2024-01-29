@@ -1,6 +1,3 @@
-This Repository is a WIP
-
-
 # [![Epic](https://media.discordapp.net/attachments/1171553297442812005/1171866242966106343/main.png)](https://github.com/AzhamProdLive/WPC-Useful-Box)
 
 ---
