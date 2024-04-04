@@ -2,6 +2,8 @@
 
 *If you want to check the code of the .reg files, you can check in [this folder](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/Scripts/Files).*
 
+# How to download ![](https://raw.githubusercontent.com/AzhamProdLive/WPC-Useful-Box/main/Scripts/Files/Image/Download.png)
+
 * Table Legend ⌨️
 
 | Type | Tweak & UI | System & Tweak | Network & DNS | Browsers & Apps |
