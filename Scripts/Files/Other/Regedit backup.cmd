@@ -15,6 +15,3 @@ reg EXPORT "HKEY_CURRENT_CONFIG" Config.reg
 
 @echo                    Made By epicZone <3
 pause /t 3
-
-
-4995*0.6=2997DH +560=3557DH
