@@ -2,8 +2,15 @@
 
 *If you want to check the code of the .reg files, you can check in [this folder](https://github.com/AzhamProdLive/WPC-Useful-Box/tree/main/Scripts/Files).*
 
-# How to download ![](https://raw.githubusercontent.com/AzhamProdLive/WPC-Useful-Box/main/Scripts/Files/Image/Download.png)
+----
+### ${\color{Red}it's}$ ${\color{Red}always}$ ${\color{Red}good}$ ${\color{Red}to}$ ${\color{Red}do}$ ${\color{Red}Regedit}$ ${\color{Red}Backup}$ 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Registry.svg/64px-Registry.svg.png)
+# How to Backup
+Easy-way: run the cmd file [link](https://github.com/AzhamProdLive/WPC-Useful-Box/blob/main/Scripts/Files/Other/Regedit%20backup.cmd) and u will find all ur backup files in ur Desktop 💞
 
+----
+# How to download ![](https://raw.githubusercontent.com/AzhamProdLive/WPC-Useful-Box/main/Scripts/Files/Image/Download.png)
+----
 * Table Legend ⌨️
 
 | Type | Tweak & UI | System & Tweak | Network & DNS | Browsers & Apps |
