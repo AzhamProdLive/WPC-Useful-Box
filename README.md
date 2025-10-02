@@ -2,6 +2,8 @@
 
 ---
 
+/!\ This repo is getting migrated over to my Gitlab Instance : https://git.azhamspacestation.com/azhammakestrash/WPC-Useful-Box, will still be maintained here but most updates might be other there, make sure to check it out if this repo looks too outdated /!\
+
 **Welcome on the "WPC-Useful-Box" repository. This repository is basically a
 database of all the useful scripts, tools, and tech tips that me and the
 tech support team created for the WPC Discord Server.**
